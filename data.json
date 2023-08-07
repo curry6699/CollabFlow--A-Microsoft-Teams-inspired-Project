@@ -1,0 +1,505 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "u1@g.com",
+            "name_first": "u1u1",
+            "name_last": "u1u1",
+            "handle_str": "u1u1u1u1",
+            "password": "dc9b0677f87e60432da6b786ce120a2be293ee20b7d8662f929eb45e1d0767a9",
+            "permission_id": 1,
+            "tokens": [
+                "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1X2lkIjoxLCJzZXNzaW9uIjoxNjM3MDI2NTQzLjE4MTc1ODR9.KCE02dSXm1dkMKhlmWJBBwCGIbpOjFYtRqDHTadQxRo"
+            ],
+            "reset_code": "",
+            "notifications": [
+                {
+                    "channel_id": 0,
+                    "dm_id": -1,
+                    "notification_message": "u2u2u2u2 reacted to your message in 1"
+                },
+                {
+                    "channel_id": 0,
+                    "dm_id": -1,
+                    "notification_message": "u1u1u1u1 reacted to your message in 1"
+                },
+                {
+                    "channel_id": -1,
+                    "dm_id": 0,
+                    "notification_message": "u2u2u2u2 added you to u1u1u1u1, u2u2u2u2"
+                },
+                {
+                    "channel_id": 0,
+                    "dm_id": -1,
+                    "notification_message": "u2u2u2u2 tagged you in 1: @u1u1u1u1"
+                }
+            ],
+            "profile_img_url": "http://localhost:6969/src/static/default.jpg",
+            "timestamp": [
+                [
+                    "channels",
+                    "increment",
+                    1637026543.181908
+                ],
+                [
+                    "dms",
+                    "increment",
+                    1637026543.181909
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026543.18191
+                ],
+                [
+                    "channels",
+                    "increment",
+                    1637026565.959273
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026570.13275
+                ],
+                [
+                    "dms",
+                    "increment",
+                    1637026604.67308
+                ]
+            ]
+        },
+        {
+            "id": 2,
+            "email": "u2@g.com",
+            "name_first": "u2u2",
+            "name_last": "u2u2",
+            "handle_str": "u2u2u2u2",
+            "password": "f501e5b8ca0d8786db69b1abb383d854a240df938d162e8c02f650f41368b5e5",
+            "permission_id": 2,
+            "tokens": [
+                "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1X2lkIjoyLCJzZXNzaW9uIjoxNjM3MDI2NTUyLjE5NTE1NjN9.hgdksQvRYPbzVZLI3TcGCJhp4ZRvUAhT1a0T9beSTOc"
+            ],
+            "reset_code": "",
+            "notifications": [
+                {
+                    "channel_id": -1,
+                    "dm_id": 0,
+                    "notification_message": "u1u1u1u1 reacted to your message in u1u1u1u1, u2u2u2u2"
+                },
+                {
+                    "channel_id": -1,
+                    "dm_id": 0,
+                    "notification_message": "u2u2u2u2 reacted to your message in u1u1u1u1, u2u2u2u2"
+                }
+            ],
+            "profile_img_url": "http://localhost:6969/src/static/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9leyJ1X2lkIjoyLCJzZXNzaW9uIjoxNjM3MDI2NTUyLjE5NTE1NjN9lhgdksQvRYPbzVZLI3TcGCJhp4ZRvUAhT1a0T9beSTOc.jpg",
+            "timestamp": [
+                [
+                    "channels",
+                    "increment",
+                    1637026552.195311
+                ],
+                [
+                    "dms",
+                    "increment",
+                    1637026552.195319
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026552.195321
+                ],
+                [
+                    "channels",
+                    "increment",
+                    1637026556.954456
+                ],
+                [
+                    "dms",
+                    "increment",
+                    1637026604.673084
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026608.518212
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026634.123325
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026651.779517
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026916.431379
+                ],
+                [
+                    "messages",
+                    "increment",
+                    1637026934.98818
+                ]
+            ]
+        }
+    ],
+    "channels": [
+        {
+            "channel_id": 0,
+            "name": "1",
+            "owners": [
+                {
+                    "id": 2,
+                    "email": "u2@g.com",
+                    "name_first": "u2u2",
+                    "name_last": "u2u2",
+                    "handle_str": "u2u2u2u2",
+                    "password": "f501e5b8ca0d8786db69b1abb383d854a240df938d162e8c02f650f41368b5e5",
+                    "permission_id": 2,
+                    "tokens": [
+                        "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1X2lkIjoyLCJzZXNzaW9uIjoxNjM3MDI2NTUyLjE5NTE1NjN9.hgdksQvRYPbzVZLI3TcGCJhp4ZRvUAhT1a0T9beSTOc"
+                    ],
+                    "reset_code": "",
+                    "notifications": [
+                        {
+                            "channel_id": -1,
+                            "dm_id": 0,
+                            "notification_message": "u1u1u1u1 reacted to your message in u1u1u1u1, u2u2u2u2"
+                        },
+                        {
+                            "channel_id": -1,
+                            "dm_id": 0,
+                            "notification_message": "u2u2u2u2 reacted to your message in u1u1u1u1, u2u2u2u2"
+                        }
+                    ],
+                    "profile_img_url": "http://localhost:6969/src/static/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9leyJ1X2lkIjoyLCJzZXNzaW9uIjoxNjM3MDI2NTUyLjE5NTE1NjN9lhgdksQvRYPbzVZLI3TcGCJhp4ZRvUAhT1a0T9beSTOc.jpg",
+                    "timestamp": [
+                        [
+                            "channels",
+                            "increment",
+                            1637026552.195311
+                        ],
+                        [
+                            "dms",
+                            "increment",
+                            1637026552.195319
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026552.195321
+                        ],
+                        [
+                            "channels",
+                            "increment",
+                            1637026556.954456
+                        ],
+                        [
+                            "dms",
+                            "increment",
+                            1637026604.673084
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026608.518212
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026634.123325
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026651.779517
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026916.431379
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026934.98818
+                        ]
+                    ]
+                }
+            ],
+            "is_public": true,
+            "connected_users": [
+                {
+                    "id": 2,
+                    "email": "u2@g.com",
+                    "name_first": "u2u2",
+                    "name_last": "u2u2",
+                    "handle_str": "u2u2u2u2",
+                    "password": "f501e5b8ca0d8786db69b1abb383d854a240df938d162e8c02f650f41368b5e5",
+                    "permission_id": 2,
+                    "tokens": [
+                        "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1X2lkIjoyLCJzZXNzaW9uIjoxNjM3MDI2NTUyLjE5NTE1NjN9.hgdksQvRYPbzVZLI3TcGCJhp4ZRvUAhT1a0T9beSTOc"
+                    ],
+                    "reset_code": "",
+                    "notifications": [
+                        {
+                            "channel_id": -1,
+                            "dm_id": 0,
+                            "notification_message": "u1u1u1u1 reacted to your message in u1u1u1u1, u2u2u2u2"
+                        },
+                        {
+                            "channel_id": -1,
+                            "dm_id": 0,
+                            "notification_message": "u2u2u2u2 reacted to your message in u1u1u1u1, u2u2u2u2"
+                        }
+                    ],
+                    "profile_img_url": "http://localhost:6969/src/static/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9leyJ1X2lkIjoyLCJzZXNzaW9uIjoxNjM3MDI2NTUyLjE5NTE1NjN9lhgdksQvRYPbzVZLI3TcGCJhp4ZRvUAhT1a0T9beSTOc.jpg",
+                    "timestamp": [
+                        [
+                            "channels",
+                            "increment",
+                            1637026552.195311
+                        ],
+                        [
+                            "dms",
+                            "increment",
+                            1637026552.195319
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026552.195321
+                        ],
+                        [
+                            "channels",
+                            "increment",
+                            1637026556.954456
+                        ],
+                        [
+                            "dms",
+                            "increment",
+                            1637026604.673084
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026608.518212
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026634.123325
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026651.779517
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026916.431379
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026934.98818
+                        ]
+                    ]
+                },
+                {
+                    "id": 1,
+                    "email": "u1@g.com",
+                    "name_first": "u1u1",
+                    "name_last": "u1u1",
+                    "handle_str": "u1u1u1u1",
+                    "password": "dc9b0677f87e60432da6b786ce120a2be293ee20b7d8662f929eb45e1d0767a9",
+                    "permission_id": 1,
+                    "tokens": [
+                        "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1X2lkIjoxLCJzZXNzaW9uIjoxNjM3MDI2NTQzLjE4MTc1ODR9.KCE02dSXm1dkMKhlmWJBBwCGIbpOjFYtRqDHTadQxRo"
+                    ],
+                    "reset_code": "",
+                    "notifications": [
+                        {
+                            "channel_id": 0,
+                            "dm_id": -1,
+                            "notification_message": "u2u2u2u2 reacted to your message in 1"
+                        },
+                        {
+                            "channel_id": 0,
+                            "dm_id": -1,
+                            "notification_message": "u1u1u1u1 reacted to your message in 1"
+                        },
+                        {
+                            "channel_id": -1,
+                            "dm_id": 0,
+                            "notification_message": "u2u2u2u2 added you to u1u1u1u1, u2u2u2u2"
+                        },
+                        {
+                            "channel_id": 0,
+                            "dm_id": -1,
+                            "notification_message": "u2u2u2u2 tagged you in 1: @u1u1u1u1"
+                        }
+                    ],
+                    "profile_img_url": "http://localhost:6969/src/static/default.jpg",
+                    "timestamp": [
+                        [
+                            "channels",
+                            "increment",
+                            1637026543.181908
+                        ],
+                        [
+                            "dms",
+                            "increment",
+                            1637026543.181909
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026543.18191
+                        ],
+                        [
+                            "channels",
+                            "increment",
+                            1637026565.959273
+                        ],
+                        [
+                            "messages",
+                            "increment",
+                            1637026570.13275
+                        ],
+                        [
+                            "dms",
+                            "increment",
+                            1637026604.67308
+                        ]
+                    ]
+                }
+            ],
+            "channel_messages": [
+                {
+                    "message_id": 1,
+                    "u_id": 2,
+                    "message": "u2u2u2u2: stand\nu2u2u2u2: up\nu2u2u2u2: 1\nu2u2u2u2: aaa\n",
+                    "is_pinned": false,
+                    "time_created": 1637026651,
+                    "reacts": []
+                },
+                {
+                    "message_id": 2,
+                    "u_id": 2,
+                    "message": "@u1u1",
+                    "is_pinned": false,
+                    "time_created": 1637026916,
+                    "reacts": []
+                },
+                {
+                    "message_id": 3,
+                    "u_id": 2,
+                    "message": "@u1u1u1u1",
+                    "is_pinned": false,
+                    "time_created": 1637026934,
+                    "reacts": []
+                }
+            ],
+            "standup": {
+                "is_active": false,
+                "time_finish": null,
+                "messages": {
+                    "token": null,
+                    "message": null
+                }
+            }
+        }
+    ],
+    "dms": [
+        {
+            "dm_id": 0,
+            "name": [
+                "u1u1u1u1",
+                "u2u2u2u2"
+            ],
+            "owner": 2,
+            "u_ids": [
+                1
+            ],
+            "messages": [
+                {
+                    "message_id": 0,
+                    "u_id": 2,
+                    "message": "/standup 10",
+                    "is_pinned": false,
+                    "time_created": 1637026634,
+                    "reacts": []
+                }
+            ]
+        }
+    ],
+    "channel_stats": [
+        1637026543.181747,
+        1637026556.954453
+    ],
+    "dm_stats": [
+        [
+            "increment",
+            1637026543.181754
+        ],
+        [
+            "increment",
+            1637026604.673067
+        ]
+    ],
+    "message_stats": [
+        [
+            "increment",
+            1637026543.181755
+        ],
+        [
+            "increment",
+            1637026570.132745
+        ],
+        [
+            "decrement",
+            1637026597.395725
+        ],
+        [
+            "increment",
+            1637026608.518203
+        ],
+        [
+            "decrement",
+            1637026627.958939
+        ],
+        [
+            "increment",
+            1637026634.123317
+        ],
+        [
+            "increment",
+            1637026651.779512
+        ],
+        [
+            "increment",
+            1637026916.43137
+        ],
+        [
+            "increment",
+            1637026934.988073
+        ]
+    ],
+    "utilization": [
+        2,
+        1,
+        1,
+        2
+    ],
+    "messages_sent": 4,
+    "dm_count": 1,
+    "dm_count_curr": 1,
+    "user_count": 2,
+    "channel_count": 1
+}
